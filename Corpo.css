@@ -114,6 +114,13 @@ body{
   margin: auto;
 }
 
+.escretor{
+  height: 300px;
+  display: block;
+  margin: auto;
+  border-radius: 8px;
+}
+
 @keyframes linha{
   50%{
     width: 100%;
